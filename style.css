@@ -5,6 +5,7 @@
 }
 body{
     background-color: blueviolet;
+    list-style-type: none;
 }
 .container{
     height: 500px;
