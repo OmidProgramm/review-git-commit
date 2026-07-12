@@ -28,6 +28,7 @@ body{
     display: flex;
     place-items: center;
     font-size: 2rem;
+    color: whitesmoke;
 }
 @media screen and (min-width:1250px ) {
     .container{
