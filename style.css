@@ -10,7 +10,8 @@ body{
     height: 500px;
     max-width: 1200px;
     background-color: yellow;
-    margin: 0 auto;
+    border-radius: 15px;
+    margin: 10px auto;
     display: grid;
     padding: 10px;
     grid-template-columns:repeat(4,1fr);
@@ -21,7 +22,6 @@ body{
     padding: 12px;
     background-color: orange;
 }
-
 @media screen and (min-width:1250px ) {
     .container{
     grid-template-columns:repeat(6,1fr);
