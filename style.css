@@ -25,6 +25,9 @@ body{
     padding: 12px;
     background-color: rgb(77, 224, 211);
     font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    place-items: center;
 }
 @media screen and (min-width:1250px ) {
     .container{
