@@ -9,7 +9,6 @@ body{
     list-style-type: none;
 }
 .container{
-    height: 500px;
     max-width: 1200px;
     background-color: rgb(29, 88, 119);
     border-radius: 25px;
